@@ -8,4 +8,4 @@ This is a simple mobile web app in which amazon product API integrated.
 2. **Buy item** - When user click on the buy click and ask for confirming then he/she will be redirect to offical amazon website
 
 
-*It was a pre-assignment task for some internship program.*
+*It was a pre-assignment task for internship program.*
